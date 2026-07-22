@@ -6,7 +6,7 @@
 
 .hero{
     position: relative;
-    background-image: url(./imgg/hero.jpeg);
+    background-image: url(images/hero.jpeg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -123,7 +123,7 @@ button{
 
 }
 .why{
-    background-image: url(./imgg/IMG-20260718-WA0001.jpg);
+    background-image: url(images/IMG-20260718-WA0001.jpg);
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -157,7 +157,7 @@ button{
 }
 
 .last{
-    background-image: url(./imgg/IMG-20260718-WA0000.jpg);
+    background-image: url(images/IMG-20260718-WA0000.jpg);
     min-height: 70vh;
     background-position: center center;
     background-repeat: no-repeat;
